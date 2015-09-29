@@ -1,6 +1,6 @@
 #Hypersonic
 
-A client for the [Subsonic](http://subsonic.org) streaming application, using GTK+3. 
+A client for the [Subsonic](http://subsonic.org) streaming application, using vala and GTK+3. 
 
 ![Screenshot](http://i.imgur.com/Hp2BoiZ.png)
 
