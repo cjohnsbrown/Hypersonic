@@ -6,7 +6,7 @@ public class StreamPlayer {
 	private PlaybackModel model;
 	private string server;
 	private string parameters;
-    private Element player = ElementFactory.make ("playbin2", "play");
+    	private Element player = ElementFactory.make ("playbin2", "play");
 
 	public StreamPlayer(PlaybackModel model, string server, string parameters) {
 		this.model = model;
