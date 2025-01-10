@@ -1,10 +1,10 @@
-#Hypersonic
+# Hypersonic
 
 A client for the [Subsonic](http://subsonic.org) streaming application, using vala and GTK+3. 
 
 ![Screenshot](http://i.imgur.com/Hp2BoiZ.png)
 
-##Dependcies
+## Dependcies
 * valac
 * gtk+-3.0
 * libsoup-2.4
